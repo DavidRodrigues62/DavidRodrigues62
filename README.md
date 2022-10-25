@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Rodrigues
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++ and Java
 - 💞️ I’m looking to collaborate on ISEP
 - 📫 How to reach me davidjbr12@gmail.com
 
